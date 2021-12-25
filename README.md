@@ -1,1 +1,1 @@
-# mansoorbarri.github.io
+# Redirect to mansoor.cf
